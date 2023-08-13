@@ -19,3 +19,4 @@ for count in counts:
 print('Count:', total_number)
 print('Sum:', sum)
 print('Sum:', sum)
+print('Sum:', sum)
